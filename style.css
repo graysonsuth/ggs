@@ -13,3 +13,9 @@ body {
   #text-color {
     color: lightslategray;
   }
+
+
+  .navbar {
+    border: 5px solid #1010107c;
+    border-radius: 1px;
+  }
