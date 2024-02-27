@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 0, 0) !important;
+    background-color: rgb(17, 17, 17) !important;
 
 }
 
@@ -32,3 +32,8 @@ img {
 .card:hover {
   transform: scale(1.05);
 }
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
