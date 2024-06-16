@@ -1,5 +1,9 @@
 body {
-    background-color: rgb(17, 17, 17) !important;
+    background-color: rgb(255, 255, 255) !important;
+    font-family: "Pixelify Sans", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 500 !important;
+    font-style: normal !important;
 
 }
 
@@ -11,7 +15,7 @@ body {
   }
 
   #text-color {
-    color: lightslategray;
+    color: rgb(0, 0, 0);
   }
 
 
@@ -30,6 +34,7 @@ img {
 }
 
 a, a:visited, a:hover, a:active {
-  color: inherit;
+  color: black !important;
 }
+
 
