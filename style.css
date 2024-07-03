@@ -11,11 +11,15 @@ body {
 
 
 .navbar {
+    min-height: 100px;
     background-color: transparent;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(20vh);
+    -webkit-backdrop-filter: blur(20vh);
+    -webkit-mask-image: linear-gradient(to bottom,black 100%,transparent 20vh);
+    mask-image: linear-gradient(to bottom,black 100%,transparent 20vh);
 
   }
+
 
   #text-color {
     color: rgb(0, 0, 0);
