@@ -3,12 +3,7 @@ body {
     font-optical-sizing: auto !important;
     font-weight: 500 !important;
     font-style: normal !important;
-
 }
-
-
-
-
 
 .navbar {
     min-height: 100px;
@@ -17,14 +12,7 @@ body {
     -webkit-backdrop-filter: blur(20vh);
     -webkit-mask-image: linear-gradient(to bottom,black 100%,transparent 20vh);
     mask-image: linear-gradient(to bottom,black 100%,transparent 20vh);
-
-  }
-
-
-  #text-color {
-    color: rgb(0, 0, 0);
-  }
-
+}
 
 img {
   max-width: 100%;
@@ -36,6 +24,7 @@ img {
   border: 0;
   margin-bottom: 1.5em;
 }
+
 .card:hover {
   transform: scale(1.05);
 }
