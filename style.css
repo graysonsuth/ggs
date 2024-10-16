@@ -6,7 +6,7 @@ body {
 }
 
 .navbar {
-    min-height: 100px;
+    min-height: 75px;
     background-color: transparent;
     backdrop-filter: blur(20vh);
     -webkit-backdrop-filter: blur(20vh);
